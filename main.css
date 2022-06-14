@@ -1,4 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
-    background-image: url(https://static.photocdn.pt/images/articles/2019/04/03/How_to_Photograph_Lake_Reflections-1.jpg);
-    background-color: rgb(35, 41, 41);
+background: #354141 url(https://images.hdqwalls.com/wallpapers/lake-reflection-mountains-4k-8r.jpg) no-repeat;
+background-attachment: fixed;
+background-position: center top;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    font-size: 60px;
+
+}
+p {
+    text-align: center;
+    padding-top: 10px;
+    font-size: larger;
+    font-weight:inherit;
+}
+nav {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.427);
+    margin: 20px;
+    font-size: larger ;
+    font-weight: bolder;
+    padding: 10px 0 10px 0;
 }
