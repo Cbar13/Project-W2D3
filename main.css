@@ -7,26 +7,34 @@ background: #354141 url(https://images.hdqwalls.com/wallpapers/lake-reflection-m
 background-attachment: fixed;
 background-position: center top;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 h1{
     text-align: center;
-    padding-top: 70px;
-    padding-bottom: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     font-size: 60px;
-
 }
 p {
     text-align: center;
-    padding-top: 10px;
     font-size: larger;
     font-weight:inherit;
 }
 nav {
-    text-align: center;
+    text-align:center ;
     background-color: rgba(255, 255, 255, 0.427);
     margin: 20px;
-    font-size: larger ;
+    font-size: 22px ;
     font-weight: bolder;
+    border: 2px solid black;
+    list-style: none;
     padding: 10px 0 10px 0;
+    height: 30px;
+}
+.dat-class {
+    padding-top: 35px;
+    color:darkgoldenrod;
+}
+ul#menu li {
+    display: inline;
+    list-style: none;
 }
